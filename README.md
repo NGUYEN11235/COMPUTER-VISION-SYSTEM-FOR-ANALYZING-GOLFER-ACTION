@@ -41,8 +41,11 @@ https://sites.google.com/view/cv-system-for-golfer
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/57ae01c6-f565-476b-87b1-83d4d3f0c69b)
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/76fb153e-acaf-4ebd-b2e7-af4a79920ce4)
  
-### Temporal Alignment
+### Temporal Alignment (UNSUPERVISED-LEARNING METHOD OR SELF-SUPERVISED LEARNING METHOD)
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/68da62ee-49f2-4b9a-8f96-0de45d23abc1)
+### Temporal Alignment MODEL: 
+![image](https://github.com/NGUYEN11235/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/66746409/8688ffbc-0f5e-4010-a31e-1b62248d5c1b)
+
 ### Loss: 
 ![Screenshot 2023-08-08 171827](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/fa3465b2-4c50-4729-9043-2627c8472f63)
 #### Evaluation: 
